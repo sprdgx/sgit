@@ -13,13 +13,13 @@
   ./sgit.sh dir <folder_name>
   ```
 - **Clone**:
-  \`\`\`bash
+  ```bash
   ./sgit.sh djib <repo_name>
-  \`\`\`
+  ```
 - **Update & Push**:
-  \`\`\`bash
+  ```bash
   ./sgit.sh abaat <folder_name> [<commit_message>]
-  \`\`\`
+  ```
 
 ## Setup ⚙️
 
@@ -27,14 +27,14 @@
 
 ## Getting Started 🚀
 1. **Clone**:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/sprdgx/sgit.git
-   \`\`\`
+   ```
 2. **Run**:
-   \`\`\`bash
+   ```bash
    cd sgit
    ./sgit.sh <command> <args>
-   \`\`\`
+   ```
 
 ## License 📜
 MIT License. See [LICENSE](LICENSE).
