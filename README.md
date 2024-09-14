@@ -9,9 +9,9 @@
 
 ## Commands 🛠️
 - **Create & Push**:
-  \`\`\`bash
+  ```bash
   ./sgit.sh dir <folder_name>
-  \`\`\`
+  ```
 - **Clone**:
   \`\`\`bash
   ./sgit.sh djib <repo_name>
